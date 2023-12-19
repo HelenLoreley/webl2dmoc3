@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "BONE泊霓（骨）1.moc3",
+		"Textures": [
+			"BONE泊霓（骨）1.1024/texture_00.png"
+		],
+		"Physics": "BONE泊霓（骨）1.physics3.json",
+		"DisplayInfo": "BONE泊霓（骨）1.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
